@@ -9,6 +9,10 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     gocd.org/pipelines: backstage,backstage-pr,backstage-builder
     sonarqube.org/project-key: Staffing-HQ_analytics-dashboard
+  links:
+    - url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      title: Website
+      icon: dashboard
   tags:
     - nextjs
     - react
