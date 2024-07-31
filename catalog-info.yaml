@@ -12,7 +12,10 @@ metadata:
     - nextjs
     - react
     - ssr
+    - 'admin dashboard'
 spec:
   type: website
   lifecycle: experimental
   owner: group:default/data-analytics
+  system: analytics-system
+  dependsOn: ['api:users-srv-api', 'api:internships-srv-api', 'api:employees-srv-api', 'api:auth-srv-api']
