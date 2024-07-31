@@ -12,7 +12,7 @@ metadata:
     - nextjs
     - react
     - ssr
-    - 'admin dashboard'
+    - admin dashboard
 spec:
   type: website
   lifecycle: experimental
