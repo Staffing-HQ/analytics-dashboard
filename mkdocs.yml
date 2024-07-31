@@ -1,0 +1,8 @@
+site_name: "analytics-dashboard"
+site_description: "A website for analytics dashboards with metrics and information about StaffingHQ"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
